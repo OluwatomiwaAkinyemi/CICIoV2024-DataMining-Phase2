@@ -1,8 +1,10 @@
 # CICIoV2024 – Data Mining Project (Phase 2)
 
+## Team 
 Aminata Kone (220304144) 
 Computer engineering            Fenerbahce university                 Istanbul, Turkey
 aminata.kone@stu.fbu.edu.tr
+
 Aisha Muhsin Abba (220304149) 
 Computer engineering            Fenerbahce university                 Istanbul, Turkey
 aisha.abba@stu.fbu.edu.tr
@@ -10,6 +12,7 @@ aisha.abba@stu.fbu.edu.tr
 Rokaia Ihab Moustafa Elsaid Nasser (220304151) 
 Computer engineering            Fenerbahce university                 Istanbul, Turkey
 rokaia.nasser@stu.fbu.edu.tr
+
 Oluwatomiwa Micheal Akinyemi (220304148) 
 Computer engineering            Fenerbahce university                 Istanbul, Turkey
 oluwatomiwa.akinyemi@stu.fbu.edu.tr
